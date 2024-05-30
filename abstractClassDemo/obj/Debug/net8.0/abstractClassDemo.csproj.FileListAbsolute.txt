@@ -1,0 +1,14 @@
+D:\C#tutorials\timCory\absClassDemo\abstractClassDemo\bin\Debug\net8.0\abstractClassDemo.exe
+D:\C#tutorials\timCory\absClassDemo\abstractClassDemo\bin\Debug\net8.0\abstractClassDemo.deps.json
+D:\C#tutorials\timCory\absClassDemo\abstractClassDemo\bin\Debug\net8.0\abstractClassDemo.runtimeconfig.json
+D:\C#tutorials\timCory\absClassDemo\abstractClassDemo\bin\Debug\net8.0\abstractClassDemo.dll
+D:\C#tutorials\timCory\absClassDemo\abstractClassDemo\bin\Debug\net8.0\abstractClassDemo.pdb
+D:\C#tutorials\timCory\absClassDemo\abstractClassDemo\obj\Debug\net8.0\abstractClassDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#tutorials\timCory\absClassDemo\abstractClassDemo\obj\Debug\net8.0\abstractClassDemo.AssemblyInfoInputs.cache
+D:\C#tutorials\timCory\absClassDemo\abstractClassDemo\obj\Debug\net8.0\abstractClassDemo.AssemblyInfo.cs
+D:\C#tutorials\timCory\absClassDemo\abstractClassDemo\obj\Debug\net8.0\abstractClassDemo.csproj.CoreCompileInputs.cache
+D:\C#tutorials\timCory\absClassDemo\abstractClassDemo\obj\Debug\net8.0\abstractClassDemo.dll
+D:\C#tutorials\timCory\absClassDemo\abstractClassDemo\obj\Debug\net8.0\refint\abstractClassDemo.dll
+D:\C#tutorials\timCory\absClassDemo\abstractClassDemo\obj\Debug\net8.0\abstractClassDemo.pdb
+D:\C#tutorials\timCory\absClassDemo\abstractClassDemo\obj\Debug\net8.0\abstractClassDemo.genruntimeconfig.cache
+D:\C#tutorials\timCory\absClassDemo\abstractClassDemo\obj\Debug\net8.0\ref\abstractClassDemo.dll
